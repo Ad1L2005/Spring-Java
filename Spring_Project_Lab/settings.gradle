@@ -1,0 +1,3 @@
+
+rootProject.name = 'Spring_MVC_WebFlux_MultiModule_Project'
+include 'mvc-server', 'webflux-server'
